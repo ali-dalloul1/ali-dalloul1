@@ -10,10 +10,7 @@
   </em>
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/alidalloul?label=Follow&style=social)](https://github.com/alidalloul)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=Google-Chrome&logoColor=white)](#)
-![](https://visitor-badge.glitch.me/badge?page_id=alidalloul.alidalloul)
+
 const ali = {
   name: "Ali Dalloul",
   role: "Full Stack Developer",
