@@ -19,7 +19,7 @@ const ali = {
   name: "Ali Dalloul",
   role: "Full Stack Developer",
   stack: ["Frontend", "Backend"],
-  languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  languages: ["JavaScript", "TypeScript", "Python","HTML", "CSS"],
   
   askMeAbout: [
     "frontend development",
@@ -29,7 +29,6 @@ const ali = {
     "clean code & architecture"
   ],
 
-  technologies: {
     frontend: {
       frameworks: ["React", "Next.js"],
       styling: ["Tailwind CSS", "CSS3", "Bootstrap"],
@@ -60,5 +59,4 @@ const ali = {
     "A bug fixed after coffee counts as a feature ☕🐛"
 };
 💻 Full-Stack focused developer
-⚡ Loves clean UI & solid backend logic
 🚀 Always learning & improving
