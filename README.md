@@ -25,16 +25,48 @@ const ali = {
     "clean code & architecture"
   ],
 
+   const ali = {
+  name: "Ali Dalloul",
+  role: "Full Stack Developer",
+  stack: ["Frontend", "Backend"],
+
+  languages: [
+    "HTML5",
+    "CSS3",
+    "JavaScript (ES6+)",
+    "TypeScript",
+    "Python"
+  ],
+
+  askMeAbout: [
+    "HTML & semantic markup",
+    "CSS layouts & responsive design",
+    "JavaScript & modern frontend",
+    "React & Next.js",
+    "backend APIs",
+    "Python backend development",
+    "performance optimization",
+    "clean code & architecture"
+  ],
+
     frontend: {
+      core: ["HTML5", "CSS3", "JavaScript"],
       frameworks: ["React", "Next.js"],
-      styling: ["Tailwind CSS", "CSS3", "Bootstrap"],
-      tools: ["Vite", "Webpack"]
+      stateManagement: ["Redux", "Zustand"],
+      styling: ["Tailwind CSS", "Bootstrap"],
+      uiLibraries: ["shadcn/ui", "Material UI"],
+      tools: ["Vite", "Webpack"],
+      practices: [
+        "Responsive Design",
+        "Flexbox & CSS Grid",
+        "Accessibility (a11y)",
+        "Performance optimization"
+      ]
     },
 
     backend: {
       node: ["Node.js", "Express"],
-      auth: ["JWT", "OAuth"],
-      apis: ["REST"]
+      python: ["FastAPI", "Flask"],
     },
 
     databases: {
@@ -49,10 +81,13 @@ const ali = {
   },
 
   currentFocus:
-    "Building modern full-stack applications with clean architecture",
+    "Crafting clean, responsive frontends with solid backend architectures",
 
   funFact:
-    "A bug fixed after coffee counts as a feature ☕🐛"
+    "Good HTML & CSS make JavaScript shine ✨"
+};
+
+
 };
 💻 Full-Stack focused developer
 🚀 Always learning & improving
